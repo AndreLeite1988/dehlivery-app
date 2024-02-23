@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+body {
+  background: #211A1A; 
+  font-family: 'MedievalSharp', cursive;
+}
+.top-container {
+   font-family: "MedievalSharp", cursive;
+   font-weight: 400;
+   font-style: normal;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.bottom-container {
+  font-family: "MedievalSharp", cursive;
+  font-weight: 400;
+  font-style: normal;
+  margin: 20px auto; 
+  max-width: 800px; 
+  flex-direction: column;
+  align-items: center;
+  
+}
+  .card {
+    font-family: "MedievalSharp", cursive;
+    font-weight: 400;
+    font-style: normal;
+    border: 1px solid #c98f55;
+    background: #c98f55;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+  
+  .card input {
+    font-family: "MedievalSharp", cursive;
+  font-weight: 400;
+  font-style: normal;
+    margin-bottom: 5px;
+    padding: 5px;
+    width: 100%;
+    margin-right: 10px;
+  }
+  
+  .card button {
+    font-family: "MedievalSharp", cursive;
+  font-weight: 400;
+  font-style: normal;
+    margin-right: 5px;
+    padding: 5px 10px;
+    background-color: #966330;
+    color: black;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .card button:hover {
+    background-color: #704112;
+  }
+  
+  .card span {
+    margin-left: 5px;
+  }
