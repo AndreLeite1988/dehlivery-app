@@ -1,25 +1,53 @@
-Projeto de Criação de Páginas com React
-Este é um projeto destinado à criação de páginas web utilizando a biblioteca React. O objetivo principal é demonstrar a construção de interfaces de usuário dinâmicas e responsivas utilizando os componentes e conceitos fornecidos pelo React.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README</title>
+</head>
+<body>
 
-Funcionalidades
-Desenvolvimento de interfaces de usuário interativas e modernas.
-Utilização de componentes reutilizáveis para promover uma estrutura de código modular.
-Implementação de funcionalidades dinâmicas utilizando estados e propriedades do React.
-Estilização dos componentes e páginas utilizando CSS e bibliotecas de estilos.
-Tecnologias Utilizadas
-React
-HTML
-CSS
-JavaScript
-Como Usar
-Clone este repositório: git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Instale as dependências: npm install
-Execute o aplicativo: npm start
-Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar um problema ou propor uma melhoria. Se preferir, envie um pull request com suas alterações.
+<h1>Projeto de Criação de Páginas com React</h1>
 
-Licença
-Este projeto é licenciado sob a MIT License.
+<p>Este é um projeto destinado à criação de páginas web utilizando a biblioteca React. O objetivo principal é demonstrar a construção de interfaces de usuário dinâmicas e responsivas utilizando os componentes e conceitos fornecidos pelo React.</p>
+
+<h2>Funcionalidades</h2>
+
+<ul>
+    <li>Desenvolvimento de interfaces de usuário interativas e modernas.</li>
+    <li>Utilização de componentes reutilizáveis para promover uma estrutura de código modular.</li>
+    <li>Implementação de funcionalidades dinâmicas utilizando estados e propriedades do React.</li>
+    <li>Estilização dos componentes e páginas utilizando CSS e bibliotecas de estilos.</li>
+</ul>
+
+<h2>Tecnologias Utilizadas</h2>
+
+<ul>
+    <li>React</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+</ul>
+
+<h2>Como Usar</h2>
+
+<ol>
+    <li>Clone este repositório: <code>git clone https://github.com/seu-usuario/nome-do-repositorio.git</code></li>
+    <li>Instale as dependências: <code>npm install</code></li>
+    <li>Execute o aplicativo: <code>npm start</code></li>
+</ol>
+
+<h2>Contribuição</h2>
+
+<p>Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar um problema ou propor uma melhoria. Se preferir, envie um pull request com suas alterações.</p>
+
+<h2>Licença</h2>
+
+<p>Este projeto é licenciado sob a <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
+
+</body>
+</html>
+
 
 ![image](https://github.com/AndreLeite1988/dehlivery-app/assets/107513155/54ad44e5-27dc-4d4d-8222-f89036621980)
 ![image](https://github.com/AndreLeite1988/dehlivery-app/assets/107513155/88920f61-cced-4028-ae0c-8b4644503122)
