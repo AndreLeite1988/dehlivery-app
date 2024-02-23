@@ -48,7 +48,7 @@
 </body>
 </html>
 
-
+Aqui esta o layout como eu desejo que fique o projeto final.
 ![image](https://github.com/AndreLeite1988/dehlivery-app/assets/107513155/54ad44e5-27dc-4d4d-8222-f89036621980)
 ![image](https://github.com/AndreLeite1988/dehlivery-app/assets/107513155/88920f61-cced-4028-ae0c-8b4644503122)
 ![image](https://github.com/AndreLeite1988/dehlivery-app/assets/107513155/6dc22e7f-9f08-4a18-8931-b4535043d6a3)
